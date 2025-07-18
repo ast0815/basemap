@@ -1,3 +1,5 @@
+permissions:
+  content: read
 on:
   push:
     paths:
